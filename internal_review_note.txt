@@ -1,0 +1,23 @@
+NEXUS DYNAMICS
+INTERNAL REVIEW NOTE
+
+Date: October 1, 2026
+Status: Unverified
+
+SUBJECT: UNEXPLAINED ACCESS
+
+John Vance used privileged access to open a restricted directory shortly before the AETHER-09 transfer was reported.
+
+Mlin's name appears in a separate access review. 
+Mlin had knowledge of the missing records but did not include the full details in the initial incident summary.
+A recovered message also shows Mlin warning Elena not to trust the automated reports.
+It remains unclear whether this was an attempt to expose the problem or conceal prior knowledge of it.
+
+When questioned about the incomplete summary, Mlin requested that the review be postponed until the original logs could be recovered.
+John describes his access as routine security work. Mlin has not provided a complete account of the missing details.
+
+REVIEW WARNING
+
+Both individuals had relevant knowledge of the incident. Neither explanation has been independently verified.
+
+END OF NOTE

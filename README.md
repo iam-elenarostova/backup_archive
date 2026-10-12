@@ -6,7 +6,7 @@ You’ve followed the trail through files, messages, hidden clues, strange recor
 
 But the trail doesn’t end here.
 
-Somewhere along the way, you’ve already encountered everything you need to solve the final puzzle. **Nothing new needs to be discovered — you need to look back.**
+Somewhere along the way, you’ve already encountered everything you need to solve the final puzzle. **Nothing new needs to be discovered - you need to look back.**
 
 Rewind the investigation.
 
@@ -22,7 +22,7 @@ Go back through everything you've uncovered and determine the **Final PR**.
 
 Submit your answer in exactly this format:
 
-**_ _ - _ _ - _ _ - 1946**
+**\_ _ - _ _ - _ \_ - \_ \_ 46**
 
 One final combination.  
 One final answer.  

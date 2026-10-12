@@ -22,7 +22,7 @@ Go back through everything you've uncovered and determine the **Final PR**.
 
 Submit your answer in exactly this format:
 
-**\_ _ - _ _ - _ \_ - \_ \_ 46**
+**\_ _ - _ _ - _ \_ - \_ \_ 67**
 
 One final combination.  
 One final answer.  

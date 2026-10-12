@@ -16,7 +16,7 @@ Question what you thought you already understood.
 
 The final answer has been hiding in the trail all along.
 
-### YOUR FINAL TASK
+### YOUR FINAL TASK (ALMOST)
 
 Go back through everything you've uncovered and determine the **Final PR**.
 
@@ -24,6 +24,4 @@ Submit your answer in exactly this format:
 
 **\_ _ - _ _ - _ \_ - \_ \_ 67**
 
-One final combination.  
-One final answer.  
-One final chance to uncover what really happened.
+**THIS IS NOT THE END.** Use the evidence left behind to uncover what happened and bring this investigation to its final conclusion.
